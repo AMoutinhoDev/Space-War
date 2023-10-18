@@ -3,16 +3,12 @@
 <!--ts-->
    * [Tabela de Conteúdo](#tabela-de-conteudo)&nbsp;&nbsp;&nbsp;
    * [Descrição](#descricao)
-   * [Preview](#preview)
+   * [Sobre o Projeto](#sobreprj)
    * [Tecnologias](#tecnologias)
    * [Autor](#autor)
 <!--te-->
 
-* [Sobre o Projeto](#sobreoprojeto)
-* [O projeto](#sobreprj)
-
-<div id="inicio" align=center> 
-  * [Sobre o Projeto](#sobreoprojeto)
+<div id="inicio" align=center>  
   <!--<a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
   <a href="#progresso">Progresso do Projeto</a>&nbsp;&nbsp;&nbsp;  
   <a href="#linguagens">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;  
@@ -50,7 +46,7 @@
 <a href="" title="Roberto Conceição"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> Roberto Conceição</a> 
 
 
-<h1 id="sobreoprojeto">Sobre o Projeto 🔎</h1>
+<h1 id="sobreprj">Sobre o Projeto 🔎</h1>
 <p>Projeto acadêmico desenvolvido para a disciplina de Tópicos Especiais II, cujo enfoque é a abordagem de jogos digitais. O projeto consiste em um jogo de guerra em 2D, entre naves espaciais.</p>
 
 
