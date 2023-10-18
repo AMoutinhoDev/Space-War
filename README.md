@@ -10,7 +10,7 @@
 
 
 <div id="inicio" align=center> 
-  * [Preview](#preview)
+  * [Sobre o Projeto](#sobreoprojeto)
   <!--<a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
   <a href="#progresso">Progresso do Projeto</a>&nbsp;&nbsp;&nbsp;  
   <a href="#linguagens">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;  
@@ -48,10 +48,8 @@
 <a href="" title="Roberto Conceição"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> Roberto Conceição</a> 
 
 
-<h1 id="preview">Preview</h1>
-<p align="center">
-  <img src="https://i.ibb.co/K7YYBBn/AVINCER.png" alt="Avincer" />
-</p>
+<h2 id="sobreoprojeto">Sobre o Projeto 🔎</h2>
+<p>Projeto acadêmico desenvolvido para a disciplina de Tópicos Especiais II, cujo enfoque é a abordagem de jogos digitais. O projeto consiste em um jogo de guerra em 2D, entre naves espaciais.</p>
 
 
 
