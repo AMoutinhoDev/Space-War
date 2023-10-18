@@ -25,8 +25,8 @@
 <h2 id="controles">Controles do Jogo 🎮</h2>
 <p><b>W | A | S | D</b> -> Movimentam a Nave</p>
 <p><b>Teclas direcionais do teclado</b> -> Movimentam a Nave</p>
-<p>Tecla<b> CTRL</b> -> Atira</p> 
-<p>Botão<b> ESQUERDO</b> -> Atira</p> 
+<p>Tecla<b> CTRL</b> do teclado -> Atira</p> 
+<p>Botão<b> ESQUERDO</b> do mouse -> Atira</p> 
   
 <h2 id="demoprojeto">Jogue online o projeto <img align="center" src="https://cdn-icons-png.flaticon.com/512/5511/5511365.png" width="35"/></h2>
 
