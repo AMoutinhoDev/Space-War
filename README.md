@@ -1,11 +1,21 @@
 # <p align=center><img align="center" src="https://i.imgur.com/rGQS7id.png" height="55" width="60"/> Space War <img align="center" src="https://i.imgur.com/rGQS7id.png" height="55" width="60"/></p>
 
-<div id="inicio" align=center>
-  <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
+<!--ts-->
+   * [Tabela de Conteúdo](#tabela-de-conteudo)&nbsp;&nbsp;&nbsp;
+   * [Descrição](#descricao)
+   * [Preview](#preview)
+   * [Tecnologias](#tecnologias)
+   * [Autor](#autor)
+<!--te-->
+
+
+<div id="inicio" align=center> 
+  * [Preview](#preview)
+  <!--<a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
   <a href="#progresso">Progresso do Projeto</a>&nbsp;&nbsp;&nbsp;  
   <a href="#linguagens">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;  
   <a href="#autores">Autores</a>&nbsp;&nbsp;&nbsp;
-  <a href="#demoprojeto">Demonstração do Projeto</a>&nbsp;&nbsp;&nbsp; 
+  <a href="#demoprojeto">Demonstração do Projeto</a>&nbsp;&nbsp;&nbsp;--> 
 </div><br>
 
 <h2 id="sobre">Sobre o projeto 🔎</h2>
@@ -36,5 +46,12 @@
 <a href="" title="Estevão Mendes"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> Estevão Mendes</a> <br>
 <a href="" title="Leonardo Serqueira"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> Leonardo Serqueira</a> <br>
 <a href="" title="Roberto Conceição"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> Roberto Conceição</a> 
+
+
+<h1 id="preview">Preview</h1>
+<p align="center">
+  <img src="https://i.ibb.co/K7YYBBn/AVINCER.png" alt="Avincer" />
+</p>
+
 
 
