@@ -9,6 +9,7 @@
 <!--te-->
 
 * [Sobre o Projeto](#sobreoprojeto)
+* [O projeto](#sobreprj)
 
 <div id="inicio" align=center> 
   * [Sobre o Projeto](#sobreoprojeto)
