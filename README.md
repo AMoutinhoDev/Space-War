@@ -8,6 +8,7 @@
    * [Autor](#autor)
 <!--te-->
 
+* [Sobre o Projeto](#sobreoprojeto)
 
 <div id="inicio" align=center> 
   * [Sobre o Projeto](#sobreoprojeto)
