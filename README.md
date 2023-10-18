@@ -49,7 +49,7 @@
 <a href="" title="Roberto Conceição"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> Roberto Conceição</a> 
 
 
-<h2 id="sobreoprojeto">Sobre o Projeto 🔎</h2>
+<h1 id="sobreoprojeto">Sobre o Projeto 🔎</h1>
 <p>Projeto acadêmico desenvolvido para a disciplina de Tópicos Especiais II, cujo enfoque é a abordagem de jogos digitais. O projeto consiste em um jogo de guerra em 2D, entre naves espaciais.</p>
 
 
