@@ -1,11 +1,11 @@
 # <p align=center><img align="center" src="https://i.imgur.com/rGQS7id.png" height="55" width="60"/> Space War <img align="center" src="https://i.imgur.com/rGQS7id.png" height="55" width="60"/></p>
 
 <!--ts-->
-   * [Sobre o projeto](#sobre)
-   * [Descrição](#descricao)
-   * [Preview](#preview)
-   * [Tecnologias](#tecnologias)
-   * [Autor](#autor)
+   [Sobre o projeto](#sobre)<br>
+   [Descrição](#descricao)<br>
+   [Preview](#preview)<br>
+   [Tecnologias](#tecnologias)<br>
+   [Autor](#autor)<br>
 <!--te-->
 
 <h2 id="sobre">Sobre o projeto 🔎</h2>
